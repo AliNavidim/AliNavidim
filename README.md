@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Ali Navidi! 👋
 
-<!--
-**AliNavidim/AliNavidim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack .NET Developer
+I am a passionate developer with **over 10 years of programming background** and **6 years of professional experience** in Backend and Frontend development. I specialize in building robust web applications and cross-platform mobile solutions.
 
-Here are some ideas to get you started:
+Currently, I am looking for **remote work opportunities**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Skills
+Based on my professional journey, here are the technologies I work with:
+
+**Backend:** C#, ASP.NET Core, ASP.NET MVC, Web API, Entity Framework.
+**Frontend:** HTML5, CSS3, JavaScript, jQuery, Bootstrap.
+Mobile Development:** .NET MAUI, Android Programming.
+Database:** SQL Server
+**Other Skills:** Telegram Bot Development, SEO Principles
+I am developing my skills in React Native.
+---
+
+### 🚀 Featured Projects
+
+#### 🛒 AgrinShop (Live Project)
+An online e-commerce platform for audio equipment.
+* **Stack:** ASP.NET Core (Full Stack).
+* **Status:** Active & Online.
+* **Link:** [agrinshop.com](https://agrinshop.com)
+* *Note: This project demonstrates my ability to build and maintain production-grade applications.
+
+#### 📱 Mobile Applications
+I have developed various mobile applications using **.NET MAUI** and Android native programming for different offline use cases.
+---
+
+### 💼 Work Experience
+
+* **.NET Developer** at *Nam Gostar Iranian Technology Engineering Co.* (May 2021 - Present)
+    * Focused on Full Stack development using .NET technologies.
+* **Computer Teacher** at *Education Department* (Oct 2023 - Present)
+    * Teaching computer science and programming concepts.
+
+---
+
+### 🎓 Education
+* **B.S. in Computer Engineering**
+    * Bu-Ali Sina University (2016 - 2020).
+
+---
+
+### 📫 Connect with Me
+* **Email:** a.navidi.moghadam@gmail.com
+* **Location:** Kurdistan, Iran
